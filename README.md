@@ -1,5 +1,5 @@
 ### Hi My Name is Daniel  
 
-### And i eat sleep and write code 
+### And I Eat, Sleep ,Drink  And Write code 
 
 ### By the way am  also a Nigeria  🇳🇬 
