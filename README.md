@@ -1,5 +1,5 @@
 # Hi, I'm Ifechukwu  👨🏾‍💻👨🏾‍💻
-[![Twitter Follow](https://img.shields.io/twitter/follow/dandynamicx?label=Follow)](https://twitter.com/intent/follow?screen_name=dandynamicx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dev_dahniel?label=Follow)](https://twitter.com/intent/follow?screen_name=dev_dahniel)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-ifechukwu/)](https://www.linkedin.com/in/daniel-ifechukwu/)
 ![GitHub followers](https://img.shields.io/github/followers/Ifechukwudaniel?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ifechukwudaniel&color=brightgreen">  
