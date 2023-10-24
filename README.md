@@ -9,7 +9,7 @@
 
 <img alt="Night Coding" width=400 src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
-<br/>
+
  - I enjoy working with Solidity , Foundry , Rust, Assembly ,ReactJS, React-Native,Next js , JavaScript, NodeJS and ExpressJS. 
  - Currently exploring Rust
  - Master Problem Solvers
